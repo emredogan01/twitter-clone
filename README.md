@@ -15,5 +15,7 @@
 - moment
 - react-toastify
 - tailwind
+# live
+https://effortless-speculoos-62901c.netlify.app/feed
 
 ![](screen.gif)
